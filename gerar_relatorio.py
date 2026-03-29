@@ -128,3 +128,4 @@ elementos.append(Paragraph("Gerado por Guilherme Franco — Desenvolvedor Python
 
 doc.build(elementos)
 print("✅ Relatório gerado: relatorio_vendas.pdf")
+
